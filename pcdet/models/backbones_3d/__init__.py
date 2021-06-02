@@ -1,4 +1,4 @@
-from .pointnet2_backbone import PointNet2Backbone, PointNet2MSG
+from .pointnet2_backbone import PointNet2Backbone, PointNet2MSG, PointNet2MSG_fsa, PointNet2MSG_dsa
 from .spconv_backbone import VoxelBackBone8x, VoxelResBackBone8x
 from .spconv_unet import UNetV2
 from .spconv_backbone import VoxelBackBone4x
